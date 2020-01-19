@@ -26,7 +26,9 @@
 - [インスタグラム](aaaaa)
 - davideryu_orihara@dwango.co.jp
 
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/D_drAAgon?ref_src=twsrc%5Etfw">Tweets by D_drAAgon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">N予備校でぇ！プログラミングを学んでぇ！！実際にぃ！ IT企業内定をキメたぁー！！！<br>方々の声がぁ！載ったぁーー！！！！<a href="https://t.co/ERGjOHulOY">https://t.co/ERGjOHulOY</a><br>実績も出しているN予備校のプログラミングすごい！本当にすごいんだ！<a href="https://twitter.com/hashtag/N%E4%BA%88%E5%82%99%E6%A0%A1?src=hash&amp;ref_src=twsrc%5Etfw">#N予備校</a> <a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング</a> <a href="https://t.co/UEblIVaomW">pic.twitter.com/UEblIVaomW</a></p>&mdash; D_drAAgon (@D_drAAgon) <a href="https://twitter.com/D_drAAgon/status/1177158124899225600?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/D_drAAgon?ref_src=twsrc%5Etfw">Tweets by D_drAAgon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">N予備校でぇ！プログラミングを学んでぇ！！実際にぃ！ IT企業内定をキメたぁー！！！<br>方々の声がぁ！載ったぁーー！！！！<a href="https://t.co/ERGjOHulOY">https://t.co/ERGjOHulOY</a><br>実績も出しているN予備校のプログラミングすごい！本当にすごいんだ！<a href="https://twitter.com/hashtag/N%E4%BA%88%E5%82%99%E6%A0%A1?src=hash&amp;ref_src=twsrc%5Etfw">#N予備校</a> <a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング</a> <a href="https://t.co/UEblIVaomW">pic.twitter.com/UEblIVaomW</a></p>&mdash; D_drAAgon (@D_drAAgon) <a href="https://twitter.com/D_drAAgon/status/1177158124899225600?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # History
