@@ -30,7 +30,7 @@
 
 # 金融商品
 アメリカ株
-<img src="stock.png" width="200">
+<img src="stock.png">
 
 ビットコイン
 <img src="bitcoin.png" width="200">
