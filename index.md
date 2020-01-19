@@ -43,3 +43,9 @@
 # History
 - 2013年ドワンゴ入社
 - 2020年バーチャルに先生と授業
+
+<div id="display">
+<script>
+  const displayE = document.getElementById("display");
+  displayE.innerText = `3 * 4 = ${3*4} です。`;
+</script>
