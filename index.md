@@ -26,6 +26,8 @@
 - [インスタグラム](aaaaa)
 - davideryu_orihara@dwango.co.jp
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/D_drAAgon?ref_src=twsrc%5Etfw">Tweets by D_drAAgon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # History
 - 2013年ドワンゴ入社
 - 2020年バーチャルに先生と授業
