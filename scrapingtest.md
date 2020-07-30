@@ -2,6 +2,8 @@
 
 ![1.png](1.png)
 
+## PC 売上表
+
 <table>
   <tr>
     <th>年</th>
