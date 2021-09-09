@@ -30,7 +30,7 @@
 
 # 折原ダビデ竜に100円あげる。
 
-https://buy.stripe.com/cN28Ak4CQ5j52as288<br>
+[https://buy.stripe.com/cN28Ak4CQ5j52as288](https://buy.stripe.com/cN28Ak4CQ5j52as288)<br>
 こちらから100円を折原ダビデ竜にプレゼントすると、そのうちの 1.5% は世界の炭素削減の団体に寄付されます。<br>
 （残りはスタッフが美味しくいただきます。）
 
