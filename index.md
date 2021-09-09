@@ -1,7 +1,7 @@
 <img src="orihara.png" width="200">
 
 # About
-プログラミングを教えるためにイタリアから日本にやってきました。
+プログラミングを教えるためにイタリアから日本にやってきました。<br>
 パスタとプログラミングを愛しています。
 
 ## Profile
@@ -27,6 +27,13 @@
 - [Twitter](https://twitter.com/D_drAAgon)
 - [インスタグラム](aaaaa)
 - davideryu_orihara@dwango.co.jp
+
+# 折原ダビデ竜に100円あげる。
+
+https://buy.stripe.com/cN28Ak4CQ5j52as288<br>
+こちらから100円を折原ダビデ竜にプレゼントすると、そのうちの 1.5% は世界の炭素削減の団体に寄付されます。<br>
+（残りはスタッフが美味しくいただきます。）
+
 
 # 金融商品
 アメリカ株
