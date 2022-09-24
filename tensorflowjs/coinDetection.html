@@ -50,18 +50,10 @@
     async function predict() {
         // predict can take in an image, video or canvas html element
         const prediction = await model.predict(webcam.canvas);
-        let max = -1;
-        let maxTag = '';
         for (let i = 0; i < maxPredictions; i++) {
-            if (max >= prediction[i].probability) {
-                max = prediction[i].probability;
-                maxTag = prediction[i].className;
-            }
-        }
-        if (maxTag && max >= 0.9) {
-            labelContainer.innerText = `これは ${maxTag} です。`;
-        } else {
-            labelContainer.innerText = ``;
+            const classPrediction =
+                prediction[i].className + ": " + prediction[i].probability.toFixed(2);
+            labelContainer.childNodes[i].innerHTML = classPrediction;
         }
     }
 </script>
