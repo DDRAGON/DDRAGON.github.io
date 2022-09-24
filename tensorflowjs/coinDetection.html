@@ -58,6 +58,10 @@
                 maxTag   = prediction[i].className;
             }
         }
-        if (maxTag && max >= 0.9) labelContainer.innerText = `これは ${maxTag} だよ。`;
+        if (maxTag && max >= 0.9) {
+            labelContainer.innerText = `これは ${maxTag} だよ。`;
+        } else {
+            labelContainer.innerText = ``;
+        }
     }
 </script>
