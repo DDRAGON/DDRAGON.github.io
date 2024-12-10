@@ -1,0 +1,1856 @@
+{
+  "1": {
+    "1": {
+      "name": "New Year's Day",
+      "dayOfWeek": "Mon",
+      "isHoliday": true
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "15": {
+      "name": "Martin Luther King Jr. Day",
+      "dayOfWeek": "Mon",
+      "isHoliday": true
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    }
+  },
+  "2": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "19": {
+      "name": "Washington's Birthday",
+      "dayOfWeek": "Mon",
+      "isHoliday": true
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    }
+  },
+  "3": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "Good Friday",
+      "dayOfWeek": "Fri",
+      "isHoliday": true
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    }
+  },
+  "4": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    }
+  },
+  "5": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "27": {
+      "name": "Memorial Day",
+      "dayOfWeek": "Mon",
+      "isHoliday": true
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    }
+  },
+  "6": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "Juneteenth National Independence Day",
+      "dayOfWeek": "Wed",
+      "isHoliday": true
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    }
+  },
+  "7": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "Independence Day",
+      "dayOfWeek": "Thu",
+      "isHoliday": true
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    }
+  },
+  "8": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    }
+  },
+  "9": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "2": {
+      "name": "Labor Day",
+      "dayOfWeek": "Mon",
+      "isHoliday": true
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    }
+  },
+  "10": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    }
+  },
+  "11": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "25": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "Thanksgiving Day",
+      "dayOfWeek": "Thu",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    }
+  },
+  "12": {
+    "1": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "2": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "3": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "4": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "5": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "6": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "7": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "8": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "9": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "10": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "11": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "12": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "13": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "14": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "15": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "16": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "17": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "18": {
+      "name": "",
+      "dayOfWeek": "Wed",
+      "isHoliday": false
+    },
+    "19": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "20": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "21": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "22": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "23": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "24": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    },
+    "25": {
+      "name": "Christmas Day",
+      "dayOfWeek": "Wed",
+      "isHoliday": true
+    },
+    "26": {
+      "name": "",
+      "dayOfWeek": "Thu",
+      "isHoliday": false
+    },
+    "27": {
+      "name": "",
+      "dayOfWeek": "Fri",
+      "isHoliday": false
+    },
+    "28": {
+      "name": "",
+      "dayOfWeek": "Sat",
+      "isHoliday": true
+    },
+    "29": {
+      "name": "",
+      "dayOfWeek": "Sun",
+      "isHoliday": true
+    },
+    "30": {
+      "name": "",
+      "dayOfWeek": "Mon",
+      "isHoliday": false
+    },
+    "31": {
+      "name": "",
+      "dayOfWeek": "Tue",
+      "isHoliday": false
+    }
+  }
+}
